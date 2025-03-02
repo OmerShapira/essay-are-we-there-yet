@@ -1,0 +1,29 @@
+body {
+    background-color: transparent;
+    margin: 0;
+    padding: 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+h1 h2 h3 h4 h5 h6 p {
+    padding: 0;
+    margin: 0;
+}   
+
+.slide {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #ffffff; /* Change text color to black for better contrast */
+}
+
+.text-container {
+    color: #000000; /* Change text color to black for better contrast */
+    background-color: #ffff00af; /* Bright yellow background */
+    padding: 10px 20px; /* Adjust padding to be around the text */
+    border-radius: 10px;
+    text-align: center;
+}
