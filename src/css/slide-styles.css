@@ -22,8 +22,8 @@ h1 h2 h3 h4 h5 h6 p {
 
 .text-container {
     color: #000000; /* Change text color to black for better contrast */
-    background-color: #ffff00af; /* Bright yellow background */
+    background-color: #ffff00; /* Bright yellow background */
     padding: 10px 20px; /* Adjust padding to be around the text */
-    border-radius: 10px;
+    border-radius: 1px;
     text-align: center;
 }
