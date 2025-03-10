@@ -1,15 +1,19 @@
-# HTML Presentation with Three.js
+# Are We There Yet: A Talk About The XR Ecosystem
 
-This project is an HTML presentation that utilizes Three.js to create a 3D world background with post-processing effects. The presentation consists of multiple slides, each represented by an individual HTML file.
+I created this talk's framework by interacting with Copilot and fixing mistakes it made.
+
+
+The rest of the readme from here down is Copilot's work.
+
 
 ## Project Structure
 
 ```
 html-presentation
 ├── slides
-│   ├── slide1.html
-│   ├── slide2.html
-│   └── slide3.html
+│   ├── slide01.html
+│   ├── slide02.html
+│   └── slide03.html
 ├── src
 │   ├── js
 │   │   ├── main.js
